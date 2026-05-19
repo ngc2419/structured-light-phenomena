@@ -18,15 +18,15 @@ The repository is a living document. Data, notebooks, and findings are versioned
 
 ## Publications & DOI Table
 
-| Zenodo DOI |
-|------------|
-| [10.5281/zenodo.15328111](https://doi.org/10.5281/zenodo.15328111) |
-| [10.5281/zenodo.15750986](https://doi.org/10.5281/zenodo.15750986) |
-| [10.5281/zenodo.15620234](https://doi.org/10.5281/zenodo.15620234) |
-| [10.5281/zenodo.15665416](https://doi.org/10.5281/zenodo.15665416) |
-| [10.5281/zenodo.17508258](https://doi.org/10.5281/zenodo.17508258) |
-| [10.5281/zenodo.17778733](https://doi.org/10.5281/zenodo.17778733) |
-| [10.5281/zenodo.17865354](https://doi.org/10.5281/zenodo.17865354) |
+| Title | DOI |
+|-------|-----|
+| Structured Light Phenomena: Resonant Fields in Natural Systems | [10.5281/zenodo.15328111](https://doi.org/10.5281/zenodo.15328111) |
+| Resonant Field Geometry in Nature: Structured Light Dynamics | [10.5281/zenodo.15620234](https://doi.org/10.5281/zenodo.15620234) |
+| Acoustic-Photonic Resonance in Nature: Structured Light Dynamics | [10.5281/zenodo.15665416](https://doi.org/10.5281/zenodo.15665416) |
+| Resonance-Restricted Quantum Actualization: Empirical and Theoretical Foundations | [10.5281/zenodo.15750986](https://doi.org/10.5281/zenodo.15750986) |
+| Structured Light Phenomena and the Contemplative Dynamics of Consciousness | [10.5281/zenodo.17508258](https://doi.org/10.5281/zenodo.17508258) |
+| Planetary Stability and Biospheric Dynamics: Within Nonlocal Intelligence Frameworks | [10.5281/zenodo.17778733](https://doi.org/10.5281/zenodo.17778733) |
+| Uxmal Pyramid of the Magician: Schumann-forced Alfvén Resonance | [10.5281/zenodo.17865354](https://doi.org/10.5281/zenodo.17865354) |
 
 *Full abstracts and contributor roles: [docs/publications.md](docs/publications.md)*
 
