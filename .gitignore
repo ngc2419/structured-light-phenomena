@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — large raw files go to Zenodo, not git
+empirical-core/raw/*.csv
+empirical-core/raw/*.fits
+empirical-core/raw/*.hdf5
+empirical-core/raw/*.h5
+empirical-core/raw/*.dat
+archives/*.zip
+archives/*.tar.gz
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+*.swp
+*~
+
+# Secrets / env
+.env
+*.key

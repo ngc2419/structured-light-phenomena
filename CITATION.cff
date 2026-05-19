@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Structured Light Phenomena: Empirical Research Repository"
+authors:
+  - family-names: Delaney
+    given-names: Susan
+    orcid: https://orcid.org/0009-0002-3854-1833
+version: "1.0.0"
+date-released: 2025-01-01
+license: CC-BY-SA-4.0
+repository-code: https://github.com/ngc2419/structured-light-phenomena
+
+references:
+  - type: dataset
+    doi: 10.5281/zenodo.15328111
+    url: https://doi.org/10.5281/zenodo.15328111
+  - type: dataset
+    doi: 10.5281/zenodo.15750986
+    url: https://doi.org/10.5281/zenodo.15750986
+  - type: dataset
+    doi: 10.5281/zenodo.15620234
+    url: https://doi.org/10.5281/zenodo.15620234
+  - type: dataset
+    doi: 10.5281/zenodo.15665416
+    url: https://doi.org/10.5281/zenodo.15665416
+  - type: dataset
+    doi: 10.5281/zenodo.17508258
+    url: https://doi.org/10.5281/zenodo.17508258
+  - type: dataset
+    doi: 10.5281/zenodo.17778733
+    url: https://doi.org/10.5281/zenodo.17778733
+  - type: dataset
+    doi: 10.5281/zenodo.17865354
+    url: https://doi.org/10.5281/zenodo.17865354
