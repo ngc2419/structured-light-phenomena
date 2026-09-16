@@ -6,7 +6,7 @@
 
 ---
 
-## Manifesto
+## Manuscript summary 
 
 Structured Light Phenomena designates a class of reproducible, spatially coherent light behaviours that resist reduction to standard scattering or diffraction accounts. This repository archives the empirical record, formalisation efforts, sensor pipelines, and cross-domain extensions of the SLP research programme — including its intersection with Rotational Resonance Quantum Astronomy (RRQA).
 
