@@ -57,3 +57,11 @@ Presents a framework for analysing Earth's planetary systems without anthropocen
 **DOI:** [10.5281/zenodo.17865354](https://doi.org/10.5281/zenodo.17865354)
 
 Examines photogrammetric data from the Pyramid of the Magician, identifying a five-phase construction sequence with successive height ratios converging on the golden ratio φ. Proposes the structure functioned as a resonant antenna mediating acoustic-photonic coherence and Schumann-forced Alfvén resonances, integrating Maya cosmology with quantum field dynamics to characterise the pyramid as a cosmogram connecting multiple cosmic domains.
+
+## 8. Structured Light Dynamics and Indivisible Coherence: Empirical Field Observations and Comparative Ontologies of Emergence
+
+**DOI:** [10.5281/zenodo.22982562](https://doi.org/10.5281/zenodo.22982562)
+
+Compares empirical Structured Light Phenomena (SLP) field observations and Structured Light Dynamics (SLD) with Jacob Barandes’s indivisible stochastic framework. Examines radial symmetry, harmonic organization, reproducible spatiotemporal structure, non-Markovian dynamics, coherence, and resonance, proposing resonance-restricted emergence as a possible complementary single-world ontology in which form and geometry may encode information through field-constrained dynamics.
+
+
