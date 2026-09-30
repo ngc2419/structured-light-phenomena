@@ -32,3 +32,6 @@ references:
   - type: dataset
     doi: 10.5281/zenodo.17865354
     url: https://doi.org/10.5281/zenodo.17865354
+- type: dataset
+    doi: 10.5281/zenodo.22982562
+    url: https://doi.org/10.5281/zenodo.22982562
