@@ -27,6 +27,7 @@ The repository is a living document. Data, notebooks, and findings are versioned
 | Structured Light Phenomena and the Contemplative Dynamics of Consciousness | [10.5281/zenodo.17508258](https://doi.org/10.5281/zenodo.17508258) |
 | Planetary Stability and Biospheric Dynamics: Within Nonlocal Intelligence Frameworks | [10.5281/zenodo.17778733](https://doi.org/10.5281/zenodo.17778733) |
 | Uxmal Pyramid of the Magician: Schumann-forced Alfvén Resonance | [10.5281/zenodo.17865354](https://doi.org/10.5281/zenodo.17865354) |
+| Structured Light Dynamics and Indivisible Coherence: Empirical Field Observations and Comparative Ontologies of Emergence | [10.5281/zenodo.22982562](https://doi.org/10.5281/zenodo.22982562) |
 
 *Full abstracts and contributor roles: [docs/publications.md](docs/publications.md)*
 
